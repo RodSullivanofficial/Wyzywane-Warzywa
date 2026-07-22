@@ -1,7 +1,7 @@
 # 🌽 Wyzywane Warzywa
 
 ![Wersja](https://img.shields.io/badge/Wersja-1.0.0-success)
-![Android](https://img.shields.io/badge/Android-8%2B-green)
+![Android](https://img.shields.io/badge/Android-7%2B-green)
 ![Status](https://img.shields.io/badge/Status-W%20Pracy.-brown)
 
 ## 📥 Pobierz
@@ -10,7 +10,7 @@ Pobierz najnowszą wersję z zakładki **Releases** lub ze strony GitHub Pages.
 
 ## 📱 Wymagania
 
-- Android 8.0 lub nowszy
+- Android 7.0 lub nowszy
 - Około 10 MB wolnego miejsca
 
 ## 📥❓️ Jak Pobrać?
@@ -24,4 +24,4 @@ Pobierz najnowszą wersję z zakładki **Releases** lub ze strony GitHub Pages.
 2. Wejdź w Zakładkę **"Releases"**
 3. Pobierz najnowszy plik APK
 4. Odpal plik APK i wybierz Bluestacks
-**UWAGA!!! BLUESTACKS MUSI MIEC WERSJE ANDROIDA 8**
+

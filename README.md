@@ -1,6 +1,6 @@
 # 🌽 Wyzywane Warzywa
 
-![Wersja](https://img.shields.io/badge/Wersja-1.0.0-success)
+![Wersja](https://img.shields.io/badge/Wersja-1.0.1-success)
 ![Android](https://img.shields.io/badge/Android-7%2B-green)
 ![Status](https://img.shields.io/badge/Status-W%20Pracy.-brown)
 
